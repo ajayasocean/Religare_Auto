@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.religare.testscripts.FY2"/>
+      <class name="com.religare.testscripts.PressReleasePageTest"/>
+      <class name="com.religare.testscripts.StudentExploreTest"/>
+      <class name="com.religare.testscripts.LinkTest"/>
+      <class name="com.religare.testscripts.Fy1"/>
+      <class name="com.religare.testscripts.Fy4"/>
+      <class name="com.religare.testscripts.Fy3"/>
+      <class name="com.religare.testscripts.JoyTest"/>
+      <class name="com.religare.testscripts.OtherDiscMisc"/>
+      <class name="com.religare.testscripts.OtherDiscTestTest"/>
+      <class name="com.religare.testscripts.OtherDiscWhistleTest"/>
+      <class name="com.religare.testscripts.EnhanceTest"/>
+      <class name="com.religare.testscripts.Fy6"/>
+      <class name="com.religare.testscripts.Fy5"/>
+      <class name="com.religare.testscripts.CareTest"/>
+      <class name="com.religare.testscripts.ExploreTest"/>
+      <class name="com.religare.testscripts.CareFreedomTest"/>
+      <class name="com.religare.testscripts.MediaCoveragePageTest"/>
+      <class name="com.religare.testscripts.OtherDiscIndAgentPTest"/>
+      <class name="com.religare.testscripts.AssureTest"/>
+      <class name="com.religare.testscripts.OtherDiscMiscellaneous"/>
+      <class name="com.religare.testscripts.OtherDiscMM"/>
+      <class name="com.religare.testscripts.SecureTest"/>
+      <class name="com.religare.testscripts.OtherDiscNeoTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

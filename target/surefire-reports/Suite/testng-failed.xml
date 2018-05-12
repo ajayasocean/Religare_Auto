@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.religare.testscripts.ExploreTest">
+        <methods>
+          <include name="proposerDetail"/>
+          <include name="launchBrowser"/>
+          <include name="explorePageTestMultiTest"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.ExploreTest -->
+      <class name="com.religare.testscripts.AssureTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="moveToassureTest"/>
+          <include name="proposerDetailAndInsuredDetailsAssureTest"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.AssureTest -->
+      <class name="com.religare.testscripts.OtherDiscTestTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscTestTest -->
+      <class name="com.religare.testscripts.Fy1">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy1 -->
+      <class name="com.religare.testscripts.PressReleasePageTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.PressReleasePageTest -->
+      <class name="com.religare.testscripts.JoyTest">
+        <methods>
+          <include name="moveToJoy"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.JoyTest -->
+      <class name="com.religare.testscripts.CareFreedomTest">
+        <methods>
+          <include name="moveToCareFreedomTest"/>
+          <include name="launchBrowser"/>
+          <include name="paymentGateWayTest"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.CareFreedomTest -->
+      <class name="com.religare.testscripts.FY2">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.FY2 -->
+      <class name="com.religare.testscripts.StudentExploreTest">
+        <methods>
+          <include name="fillDetails"/>
+          <include name="launchBrowser"/>
+          <include name="medHistTest"/>
+          <include name="paymentPageCheckServiceResponseCareFreedomTest"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.StudentExploreTest -->
+      <class name="com.religare.testscripts.Fy4">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy4 -->
+      <class name="com.religare.testscripts.MediaCoveragePageTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.MediaCoveragePageTest -->
+      <class name="com.religare.testscripts.EnhanceTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="fillEnhanceDetails"/>
+          <include name="medHist"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.EnhanceTest -->
+      <class name="com.religare.testscripts.OtherDiscMisc">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscMisc -->
+      <class name="com.religare.testscripts.OtherDiscWhistleTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscWhistleTest -->
+      <class name="com.religare.testscripts.SecureTest">
+        <methods>
+          <include name="secureTest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.SecureTest -->
+      <class name="com.religare.testscripts.Fy6">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy6 -->
+      <class name="com.religare.testscripts.OtherDiscNeoTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscNeoTest -->
+      <class name="com.religare.testscripts.OtherDiscMM">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscMM -->
+      <class name="com.religare.testscripts.CareTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="medHist"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.CareTest -->
+      <class name="com.religare.testscripts.OtherDiscIndAgentPTest">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscIndAgentPTest -->
+      <class name="com.religare.testscripts.Fy3">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy3 -->
+      <class name="com.religare.testscripts.LinkTest">
+        <methods>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.LinkTest -->
+      <class name="com.religare.testscripts.OtherDiscMiscellaneous">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.OtherDiscMiscellaneous -->
+      <class name="com.religare.testscripts.Fy5">
+        <methods>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy5 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

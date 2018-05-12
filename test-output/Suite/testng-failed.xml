@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.religare.testscripts.FY2">
+        <methods>
+          <include name="disclosurePageQtr2_16_17Test"/>
+          <include name="disclosurePageQtr4_16_17Test"/>
+          <include name="disclosurePageQtr3_16_17Test"/>
+          <include name="launchDisclosurePage"/>
+          <include name="disclosurePageQtr1_16_17Test"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.FY2 -->
+      <class name="com.religare.testscripts.Fy1">
+        <methods>
+          <include name="disclosurePageQtr2_17_18Test"/>
+          <include name="disclosurePageQtr3_17_18Test"/>
+          <include name="launchDisclosurePage"/>
+          <include name="disclosurePageQtr4_17_18Test"/>
+          <include name="disclosurePageQtr1_17_18Test"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy1 -->
+      <class name="com.religare.testscripts.Fy3">
+        <methods>
+          <include name="disclosurePageQtr2_15_16Test"/>
+          <include name="disclosurePageQtr1_15_16Test"/>
+          <include name="launchDisclosurePage"/>
+          <include name="disclosurePageQtr4_15_16Test"/>
+          <include name="disclosurePageQtr3_15_16Test"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy3 -->
+      <class name="com.religare.testscripts.Fy5">
+        <methods>
+          <include name="disclosurePageQtr3_13_14Test"/>
+          <include name="disclosurePageQtr1_13_14Test"/>
+          <include name="disclosurePageQtr2_13_14Test"/>
+          <include name="launchDisclosurePage"/>
+          <include name="disclosurePageQtr4_13_14Test"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy5 -->
+      <class name="com.religare.testscripts.Fy6">
+        <methods>
+          <include name="disclosurePageQtr2_12_13Test"/>
+          <include name="disclosurePageQtr1_12_13Test"/>
+          <include name="disclosurePageQtr4_12_13Test"/>
+          <include name="disclosurePageQtr3_12_13Test"/>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy6 -->
+      <class name="com.religare.testscripts.Fy4">
+        <methods>
+          <include name="disclosurePageQtr3_14_15Test"/>
+          <include name="disclosurePageQtr1_14_15Test"/>
+          <include name="disclosurePageQtr4_14_15Test"/>
+          <include name="disclosurePageQtr2_14_15Test"/>
+          <include name="launchDisclosurePage"/>
+        </methods>
+      </class> <!-- com.religare.testscripts.Fy4 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
